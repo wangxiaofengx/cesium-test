@@ -1,0 +1,18 @@
+{
+  "name": "cesium-test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "vue": "^3.2.38"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "cesium": "^1.97.0",
+    "vite": "^3.1.0",
+    "vite-plugin-cesium": "^1.2.22"
+  }
+}
